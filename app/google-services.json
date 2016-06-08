@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415916678242",
+    "firebase_url": "https://pitipong-web.firebaseio.com",
+    "project_id": "pitipong-web",
+    "storage_bucket": "pitipong-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415916678242:android:2a18d745da3b401c",
+        "android_client_info": {
+          "package_name": "com.android.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415916678242-m3u40v7csbu3cegvhv00jbmiv73tg8n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.notificationfirebase",
+            "certificate_hash": "B1EFC56C87F8B0708F0E4EF4C41CAB3D3A611BF1"
+          }
+        },
+        {
+          "client_id": "415916678242-i9bru4i90fh8qiovsro0ksv36f9jbhdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOYuZesjVxcUmyNUJYz_EQImNnn2DYFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415916678242-i9bru4i90fh8qiovsro0ksv36f9jbhdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
